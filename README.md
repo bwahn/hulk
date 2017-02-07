@@ -1,6 +1,8 @@
 # hulk
 
 ## About
+
+## Features
 TCP Proxy
 HTTP reverse-Proxy
 SSL terminator
@@ -21,7 +23,6 @@ Traffic Shaping for "blue/green" deployments
 Circonus metricsGraphite metrics
 StatsD/DataDog metrics
 WebUI
-## Requirements
 
 ## Integrated
  Consul, Vault, Amazon ELB, Amazon API Gateway 
